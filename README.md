@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/balaji1702/balaji1702/blob/main/Green%20and%20Cream%20Brushstroke%20Assistant%20Professor%20LinkedIn%20Banner%20(1).png)
+![MasterHead](https://github.com/balaji1702/balaji1702/blob/main/readmebanner.png)
 
 <h1 align="center">Hi 👋, I'm Balaji.c</h1>
 <h3 align="center">I’m interested in computer science and devloping</h3>
