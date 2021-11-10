@@ -4,7 +4,7 @@
 <h3 align="center">I’m interested in computer science and devloping</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji1702&label=Profile%20views&color=0e75b6&style=flat" alt="balaji1702" /> </p>
-<img align="right" alt="Coding" width="400" src=https://github.com/balaji1702/balaji1702/blob/main/flyingguywebp.jpg>
+<img align="right" alt="Coding" width="400" src=https://github.com/balaji1702/balaji1702/blob/main/flyingguy.jpg>
 
 
 - 🌱 I’m currently learning **django framework**
