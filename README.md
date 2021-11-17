@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **balajichandrasekar17@gmail.com**
 
-- ⚡ Fun fact **I love doing sataire and sarcasam through rational thought**
+- ⚡ Fun fact **I love doing sataire and sarcasm through rational thought**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
