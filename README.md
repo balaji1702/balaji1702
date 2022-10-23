@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src=https://github.com/balaji1702/balaji1702/blob/main/flyingguy.jpg>
 
 
-- 🌱 I’m currently learning **fast api **
+- 🌱 I’m currently learning **fast-api&go-lang**
 
 - 👯 I’m looking to collaborate on **fast-api and go-langt**
 
