@@ -7,11 +7,11 @@
 <img align="right" alt="Coding" width="400" src=https://github.com/balaji1702/balaji1702/blob/main/flyingguy.jpg>
 
 
-- 🌱 I’m currently learning **django framework**
+- 🌱 I’m currently learning **fast api **
 
-- 👯 I’m looking to collaborate on **django project**
+- 👯 I’m looking to collaborate on **fast-api and go-langt**
 
-- 💬 Ask me about **object oriented concept**
+- 💬 Ask me about **rest-api**
 
 - 📫 How to reach me **balajichandrasekar17@gmail.com**
 
