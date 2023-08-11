@@ -9,13 +9,12 @@
 
 - 🌱 I’m currently learning **fast-api&go-lang**
 
-- 👯 I’m looking to collaborate on **fast-api and go-langt**
+- 👯 I’m looking to collaborate on **fast-api and go-lang**
 
 - 💬 Ask me about **rest-api**
 
 - 📫 How to reach me **balajichandrasekar17@gmail.com**
 
-- ⚡ Fun fact **I love doing sataire and sarcasm through rational thought**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
